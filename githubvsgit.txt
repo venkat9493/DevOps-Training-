@@ -1,1 +1,2 @@
-git is software github is webbased platform 
+git is software 
+github is webbased platform 
