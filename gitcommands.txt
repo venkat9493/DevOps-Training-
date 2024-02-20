@@ -1,3 +1,6 @@
 git clone 
 git branch 
-git checkout 
+git checkout
+git status
+git commit 
+git push
