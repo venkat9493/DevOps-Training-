@@ -3,4 +3,8 @@ git branch
 git checkout
 git status
 git commit 
-git push
+git push 
+
+git tag 
+
+git 
