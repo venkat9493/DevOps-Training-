@@ -1,2 +1,2 @@
-git is software 
-github is webbased platform 
+git is software  ---> we will install in  systeam 
+github is webbased platform ----> we need to sinup in web 
